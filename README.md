@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JAFARai
+- 👀 I’m interested in Artificial Intelligence (Python, Machine Learning, TensorFllow, ... )
+- 🌱 I’m currently learning Neural Networks 
+- 💞️ I’m looking to collaborate on 
+- 📫 jafarhusinmahmoud@gmail.com
